@@ -25,6 +25,10 @@ import org.apache.shardingsphere.api.config.RuleConfiguration;
 import java.util.Collection;
 
 /**
+ * 用于数据库主从的相关配置
+ */
+
+/**
  * Master-slave rule configuration.
  * 
  * @author zhangliang
